@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  ExSwiftGen
+
+  Created by Conner on 2023/01/03.
+  
+*/
+/* Title for an alert */
+"alert_title" = "Title of the alert";
+"alert_message" = "Some alert body there";
+/* A comment with no space above it */
+"bananas.owner" = "Those %d bananas belong to %@.";
